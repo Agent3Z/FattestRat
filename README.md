@@ -24,6 +24,10 @@ Extensions Wallets (MetaMask, Phantom, Trust Wallet, Coinbase Wallet, Binance Wa
 Softwarare wallets (Exodus, Atomic, Guarda, Electrum, Zcash, Armory, Binance, Coinomi...)
 Seedphrases and backup codes
 
+Once opened it will start to build the ui, once built everything will be pretty self explanatory it'll ask for your webhook and build a RAT file you can send.
+
+EDUCATIONAL PURPOSES ONLY
+
 Application Data
 Steam
 Riot Games
