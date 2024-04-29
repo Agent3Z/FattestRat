@@ -50,7 +50,7 @@ Application Data
 
 -Telegram
 
-Once opened it will start to build the ui, once built everything will be pretty self explanatory it'll ask for your webhook and build a RAT file you can send.
+***Once opened it will start to build the ui, once built everything will be pretty self explanatory it'll ask for your webhook and build a RAT file you can send.
 
 EDUCATIONAL PURPOSES ONLY
 
